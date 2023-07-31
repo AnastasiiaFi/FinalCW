@@ -1,0 +1,15 @@
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\bin\Debug\net7.0\Program.exe
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\bin\Debug\net7.0\Program.dll
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\obj\Debug\net7.0\Program.csproj.AssemblyReference.cache
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\obj\Debug\net7.0\Program.dll
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\Fair9\OneDrive\Рабочий стол\КР\Program\obj\Debug\net7.0\ref\Program.dll
